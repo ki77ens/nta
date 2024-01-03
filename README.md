@@ -11,8 +11,8 @@ This script utilizes Scapy, a powerful packet manipulation library, to capture n
 ## Usage
 
 ### Prerequisites
-- Python 3
-- `Scapy` library (Install using `pip install scapy`)
+- [`Python 3`](https://www.python.org/downloads/)
+- [`Scapy`](https://scapy.net/) library (Install using `pip install scapy`)
 
 ### Running the Script
 
