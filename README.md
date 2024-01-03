@@ -16,13 +16,13 @@ This script utilizes Scapy, a powerful packet manipulation library, to capture n
 
 ### Running the Script
 
-1. **Clone the Repository:**
+1. **Clone the Repository**
 
     ```bash
     git clone https://github.com/ki77ens/nta.git
     ```
 
-2. **Execute the Script:**
+2. **Execute the Script**
 
     ```bash
     python main.py
